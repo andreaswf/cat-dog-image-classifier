@@ -40,4 +40,11 @@ Also see requirements.txt
 | --------------------- | ----------------------------- |
 | **Test accuracy**     | **≈ 89 %**                    |
 | **Peak val accuracy** | 90 %                          |
-| **Train time**        | \~15 mins on NVIDIA RTX 3060TI |
+| **Train time**        | \~15 mins on NVIDIA RTX 3060TI|
+
+
+## TODO
+- Update README with images of performance
+- More indepth hyperparameter tuning and regularization
+- Transfer learning
+- Pretrained weights
